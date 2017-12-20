@@ -1,0 +1,39 @@
+.fa-phone {
+    margin-right: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.jumbPhone {
+    font-size: 150px;
+    color: black;
+}
+
+.navbar-dark .navbar-text {
+    color: white;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+hr {
+    width: 100%;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 2px solid rgba(0,0,0,0.2);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.jumbotron {
+    margin-top: 80px;
+}
+
+#jumbSpan {
+    display: inline-block;
+}
+
+
+
